@@ -27,22 +27,21 @@
 | [Todos] [Clasicos] [Novela] [Fantasía] [Distopía]|
 ---------------------------------------------------
 
----------------------------------------------------
-|                 CATÁLOGO DE LIBROS               |
-|                                                 |
-|  [CARD]   [CARD]   [CARD]   [CARD]              |
-|  [CARD]   [CARD]   [CARD]   [CARD]              |
+--------------------------------------------------------
+---------------------------------------------------------
+|                 CONTENIDO PRINCIPAL                   |
+|-------------------------------------------------------|
+|                                                       |
+|      CATÁLOGO DE LIBROS        |   CARRITO           |
+|                                |                      |
+|  [CARD] [CARD] [CARD]          |  Productos           |
+|  [CARD] [CARD] [CARD]          |  Total               |
+|                                |  Vaciar carrito      |
+|                                |                      | 
 |                                                 |
 ---------------------------------------------------
 
----------------------------------------------------
-|                CARRITO DE COMPRAS                |
-| Libro 1                         $20              |
-| Libro 2                         $15              |
-|-------------------------------------------------|
-| Total:                             $35          |
-| [Vaciar carrito]                               |
----------------------------------------------------
+
 
 ---------------------------------------------------
 |                     FOOTER                       |
@@ -50,5 +49,16 @@
 
 | Derechos reservados | Redes sociales            |
 ---------------------------------------------------
+
+           CARD
+--------------------------
+|        IMAGEN          |
+| Categoría              |
+| Título                 |
+| Autor                  |
+| Editorial - Año        |
+| Precio                 |
+| [Agregar 🛒]           |
+--------------------------
 
 URL: https://www.figma.com/make/zKFlbJVmn7tiizwUmikob2/Untitled?p=f&t=wDBcDLJhXO2ZPEAk-0
